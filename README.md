@@ -7,8 +7,9 @@
 
 Welcome to the Sales Control System project! This application is designed to manage sales, employees, suppliers, and customers with ease. Built with Windows Forms and connected to a MySQL database, it leverages the VIACEP API for address lookup. This robust system features user registration and login, access levels, and roles to ensure secure and efficient operations.
 
+![cliente](https://github.com/user-attachments/assets/b54358af-8b87-47ce-957d-99b5e6c03aa3)
 
-![cliente](https://github.com/user-attachments/assets/ffa76582-2265-4443-b770-51805c1115bd)
+
 
 ## Features
 
