@@ -1,7 +1,7 @@
 # Sales Control System
 
 
-## Description
+## Description ( This project contains a project that is using texts in Portuguese )
 
 
 
@@ -11,7 +11,7 @@ Welcome to the Sales Control System project! This application is designed to man
 
 
 
-## Features
+## Features 
 
 - **User Registration and Login**: Secure user authentication with role-based access control.
   - Roles: Manager, Employee
