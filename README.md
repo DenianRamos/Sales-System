@@ -52,7 +52,7 @@ Welcome to the Sales Control System project! This application is designed to man
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/Sales-Control-System.git
+   git clone https://github.com/DenianRamos/Sales-Control-System.git
 ## Database Configuration
 - Ensure your MySQL server is running.
 - Import the database schema provided in the db folder.
