@@ -1,0 +1,170 @@
+C:\Users\Caio Malheiros\source\repos\Projeto Controle Vendas\bin\Debug\Projeto Controle Vendas.exe.config
+C:\Users\Caio Malheiros\source\repos\Projeto Controle Vendas\bin\Debug\Projeto Controle Vendas.exe
+C:\Users\Caio Malheiros\source\repos\Projeto Controle Vendas\bin\Debug\Projeto Controle Vendas.pdb
+C:\Users\Caio Malheiros\source\repos\Projeto Controle Vendas\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Caio Malheiros\source\repos\Projeto Controle Vendas\bin\Debug\Google.Protobuf.dll
+C:\Users\Caio Malheiros\source\repos\Projeto Controle Vendas\bin\Debug\MySql.Data.dll
+C:\Users\Caio Malheiros\source\repos\Projeto Controle Vendas\bin\Debug\Renci.SshNet.dll
+C:\Users\Caio Malheiros\source\repos\Projeto Controle Vendas\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Caio Malheiros\source\repos\Projeto Controle Vendas\bin\Debug\Google.Protobuf.xml
+C:\Users\Caio Malheiros\source\repos\Projeto Controle Vendas\bin\Debug\MySql.Data.xml
+C:\Users\Caio Malheiros\source\repos\Projeto Controle Vendas\bin\Debug\Renci.SshNet.xml
+C:\Users\Caio Malheiros\source\repos\Projeto Controle Vendas\obj\Debug\Projeto Controle Vendas.csprojAssemblyReference.cache
+C:\Users\Caio Malheiros\source\repos\Projeto Controle Vendas\obj\Debug\Projeto_Controle_Vendas.Form1.resources
+C:\Users\Caio Malheiros\source\repos\Projeto Controle Vendas\obj\Debug\Projeto_Controle_Vendas.Properties.Resources.resources
+C:\Users\Caio Malheiros\source\repos\Projeto Controle Vendas\obj\Debug\Projeto Controle Vendas.csproj.GenerateResource.cache
+C:\Users\Caio Malheiros\source\repos\Projeto Controle Vendas\obj\Debug\Projeto Controle Vendas.csproj.CoreCompileInputs.cache
+C:\Users\Caio Malheiros\source\repos\Projeto Controle Vendas\obj\Debug\Projeto Controle Vendas.csproj.CopyComplete
+C:\Users\Caio Malheiros\source\repos\Projeto Controle Vendas\obj\Debug\Projeto Controle Vendas.exe
+C:\Users\Caio Malheiros\source\repos\Projeto Controle Vendas\obj\Debug\Projeto Controle Vendas.pdb
+C:\Users\Caio Malheiros\source\repos\Projeto Controle Vendas\obj\Debug\Projeto_Controle_Vendas.br.com.projeto.view.Frmclientes.resources
+C:\Users\Caio Malheiros\source\repos\Projeto Controle Vendas\obj\Debug\Projeto_Controle_Vendas.br.com.projeto.view.Frmfuncionarios.resources
+C:\Users\Caio Malheiros\source\repos\Projeto Controle Vendas\obj\Debug\Projeto_Controle_Vendas.br.com.projeto.view.Frmfornecedores.resources
+C:\Users\Caio Malheiros\source\repos\Projeto Controle Vendas\obj\Debug\Projeto_Controle_Vendas.br.com.projeto.view.Frmprodutos.resources
+C:\Users\Caio Malheiros\source\repos\Projeto Controle Vendas\obj\Debug\Projeto_Controle_Vendas.br.com.projeto.view.Frmvendas.resources
+C:\Users\Caio Malheiros\source\repos\Projeto Controle Vendas\obj\Debug\Projeto_Controle_Vendas.br.com.projeto.view.Frmpagamentos.resources
+C:\Users\Caio Malheiros\source\repos\Projeto Controle Vendas\obj\Debug\Projeto_Controle_Vendas.br.com.projeto.view.Frmhistorico.resources
+C:\Users\Caio Malheiros\source\repos\Projeto Controle Vendas\obj\Debug\Projeto_Controle_Vendas.br.com.projeto.view.Frmlogin.resources
+C:\Users\Caio Malheiros\source\repos\Projeto Controle Vendas\obj\Debug\Projeto_Controle_Vendas.br.com.projeto.view.FrmMenu.resources
+E:\projetos\Curso Controle de Vendas - C# e MySQL\Projeto Controle Vendas\obj\Debug\Projeto Controle Vendas.csproj.AssemblyReference.cache
+E:\projetos\Curso Controle de Vendas - C# e MySQL\Projeto Controle Vendas\obj\Debug\Projeto Controle Vendas.csproj.SuggestedBindingRedirects.cache
+E:\projetos\Curso Controle de Vendas - C# e MySQL\Projeto Controle Vendas\obj\Debug\Projeto_Controle_Vendas.br.com.projeto.view.Frmclientes.resources
+E:\projetos\Curso Controle de Vendas - C# e MySQL\Projeto Controle Vendas\obj\Debug\Projeto_Controle_Vendas.br.com.projeto.view.Frmfornecedores.resources
+E:\projetos\Curso Controle de Vendas - C# e MySQL\Projeto Controle Vendas\obj\Debug\Projeto_Controle_Vendas.br.com.projeto.view.Frmfuncionarios.resources
+E:\projetos\Curso Controle de Vendas - C# e MySQL\Projeto Controle Vendas\obj\Debug\Projeto_Controle_Vendas.br.com.projeto.view.Frmhistorico.resources
+E:\projetos\Curso Controle de Vendas - C# e MySQL\Projeto Controle Vendas\obj\Debug\Projeto_Controle_Vendas.br.com.projeto.view.Frmlogin.resources
+E:\projetos\Curso Controle de Vendas - C# e MySQL\Projeto Controle Vendas\obj\Debug\Projeto_Controle_Vendas.br.com.projeto.view.FrmMenu.resources
+E:\projetos\Curso Controle de Vendas - C# e MySQL\Projeto Controle Vendas\obj\Debug\Projeto_Controle_Vendas.br.com.projeto.view.Frmpagamentos.resources
+E:\projetos\Curso Controle de Vendas - C# e MySQL\Projeto Controle Vendas\obj\Debug\Projeto_Controle_Vendas.br.com.projeto.view.Frmprodutos.resources
+E:\projetos\Curso Controle de Vendas - C# e MySQL\Projeto Controle Vendas\obj\Debug\Projeto_Controle_Vendas.br.com.projeto.view.Frmvendas.resources
+E:\projetos\Curso Controle de Vendas - C# e MySQL\Projeto Controle Vendas\obj\Debug\Projeto_Controle_Vendas.Form1.resources
+E:\projetos\Curso Controle de Vendas - C# e MySQL\Projeto Controle Vendas\obj\Debug\Projeto_Controle_Vendas.Properties.Resources.resources
+E:\projetos\Curso Controle de Vendas - C# e MySQL\Projeto Controle Vendas\obj\Debug\Projeto Controle Vendas.csproj.GenerateResource.cache
+E:\projetos\Curso Controle de Vendas - C# e MySQL\Projeto Controle Vendas\obj\Debug\Projeto Controle Vendas.csproj.CoreCompileInputs.cache
+E:\projetos\Curso Controle de Vendas - C# e MySQL\Projeto Controle Vendas\obj\Debug\Projeto Controle Vendas.exe
+E:\projetos\Curso Controle de Vendas - C# e MySQL\Projeto Controle Vendas\obj\Debug\Projeto Controle Vendas.pdb
+E:\projetos\Curso Controle de Vendas - C# e MySQL\Projeto Controle Vendas\bin\Debug\Projeto Controle Vendas.exe.config
+E:\projetos\Curso Controle de Vendas - C# e MySQL\Projeto Controle Vendas\bin\Debug\Projeto Controle Vendas.exe
+E:\projetos\Curso Controle de Vendas - C# e MySQL\Projeto Controle Vendas\bin\Debug\Projeto Controle Vendas.pdb
+E:\projetos\Curso Controle de Vendas - C# e MySQL\Projeto Controle Vendas\bin\Debug\BouncyCastle.Crypto.dll
+E:\projetos\Curso Controle de Vendas - C# e MySQL\Projeto Controle Vendas\bin\Debug\Google.Protobuf.dll
+E:\projetos\Curso Controle de Vendas - C# e MySQL\Projeto Controle Vendas\bin\Debug\MySql.Data.dll
+E:\projetos\Curso Controle de Vendas - C# e MySQL\Projeto Controle Vendas\bin\Debug\Renci.SshNet.dll
+E:\projetos\Curso Controle de Vendas - C# e MySQL\Projeto Controle Vendas\bin\Debug\Ubiety.Dns.Core.dll
+E:\projetos\Curso Controle de Vendas - C# e MySQL\Projeto Controle Vendas\bin\Debug\Google.Protobuf.xml
+E:\projetos\Curso Controle de Vendas - C# e MySQL\Projeto Controle Vendas\bin\Debug\MySql.Data.xml
+E:\projetos\Curso Controle de Vendas - C# e MySQL\Projeto Controle Vendas\bin\Debug\Renci.SshNet.xml
+E:\projetos\Curso Controle de Vendas - C# e MySQL\Projeto Controle Vendas\obj\Debug\Projeto Controle Vendas.csproj.CopyComplete
+E:\projetos\Curso Controle de Vendas - C# e MySQL\Projeto Controle Vendas\obj\Debug\Projeto_Controle_Vendas.br.com.projeto.view.FrmDetalhe.resources
+E:\projetos\Curso Controle de Vendas - C# e MySQL\Projeto Controle Vendas\obj\Debug\Projeto_Controle_Vendas.br.com.projeto.view.Frmdetalhes.resources
+E:\projetos\Curso Controle de Vendas - C# e MySQL\Projeto Controle Vendas\obj\Debug\Projeto_Controle_Vendas.Form2.resources
+D:\Users\User\Downloads\sistema-vendas-finalizado\bin\Debug\Projeto Controle Vendas.exe.config
+D:\Users\User\Downloads\sistema-vendas-finalizado\bin\Debug\Projeto Controle Vendas.exe
+D:\Users\User\Downloads\sistema-vendas-finalizado\bin\Debug\Projeto Controle Vendas.pdb
+D:\Users\User\Downloads\sistema-vendas-finalizado\bin\Debug\BouncyCastle.Crypto.dll
+D:\Users\User\Downloads\sistema-vendas-finalizado\bin\Debug\Google.Protobuf.dll
+D:\Users\User\Downloads\sistema-vendas-finalizado\bin\Debug\MySql.Data.dll
+D:\Users\User\Downloads\sistema-vendas-finalizado\bin\Debug\Renci.SshNet.dll
+D:\Users\User\Downloads\sistema-vendas-finalizado\bin\Debug\Google.Protobuf.xml
+D:\Users\User\Downloads\sistema-vendas-finalizado\bin\Debug\MySql.Data.xml
+D:\Users\User\Downloads\sistema-vendas-finalizado\bin\Debug\Renci.SshNet.xml
+D:\Users\User\Downloads\sistema-vendas-finalizado\obj\Debug\Projeto Controle Vendas.csproj.AssemblyReference.cache
+D:\Users\User\Downloads\sistema-vendas-finalizado\obj\Debug\Projeto_Controle_Vendas.br.com.projeto.view.Frmclientes.resources
+D:\Users\User\Downloads\sistema-vendas-finalizado\obj\Debug\Projeto_Controle_Vendas.br.com.projeto.view.Frmdetalhes.resources
+D:\Users\User\Downloads\sistema-vendas-finalizado\obj\Debug\Projeto_Controle_Vendas.br.com.projeto.view.Frmfornecedores.resources
+D:\Users\User\Downloads\sistema-vendas-finalizado\obj\Debug\Projeto_Controle_Vendas.br.com.projeto.view.Frmfuncionarios.resources
+D:\Users\User\Downloads\sistema-vendas-finalizado\obj\Debug\Projeto_Controle_Vendas.br.com.projeto.view.Frmhistorico.resources
+D:\Users\User\Downloads\sistema-vendas-finalizado\obj\Debug\Projeto_Controle_Vendas.br.com.projeto.view.Frmlogin.resources
+D:\Users\User\Downloads\sistema-vendas-finalizado\obj\Debug\Projeto_Controle_Vendas.br.com.projeto.view.FrmMenu.resources
+D:\Users\User\Downloads\sistema-vendas-finalizado\obj\Debug\Projeto_Controle_Vendas.br.com.projeto.view.Frmpagamentos.resources
+D:\Users\User\Downloads\sistema-vendas-finalizado\obj\Debug\Projeto_Controle_Vendas.br.com.projeto.view.Frmprodutos.resources
+D:\Users\User\Downloads\sistema-vendas-finalizado\obj\Debug\Projeto_Controle_Vendas.br.com.projeto.view.Frmvendas.resources
+D:\Users\User\Downloads\sistema-vendas-finalizado\obj\Debug\Projeto_Controle_Vendas.Properties.Resources.resources
+D:\Users\User\Downloads\sistema-vendas-finalizado\obj\Debug\Projeto Controle Vendas.csproj.GenerateResource.cache
+D:\Users\User\Downloads\sistema-vendas-finalizado\obj\Debug\Projeto Controle Vendas.csproj.CoreCompileInputs.cache
+D:\Users\User\Downloads\sistema-vendas-finalizado\obj\Debug\Projeto .EC285273.Up2Date
+D:\Users\User\Downloads\sistema-vendas-finalizado\obj\Debug\Projeto Controle Vendas.exe
+D:\Users\User\Downloads\sistema-vendas-finalizado\obj\Debug\Projeto Controle Vendas.pdb
+D:\Users\User\Downloads\sistema-vendas-finalizado\bin\Debug\BouncyCastle.Cryptography.dll
+D:\Users\User\Downloads\sistema-vendas-finalizado\bin\Debug\K4os.Compression.LZ4.dll
+D:\Users\User\Downloads\sistema-vendas-finalizado\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Users\User\Downloads\sistema-vendas-finalizado\bin\Debug\K4os.Hash.xxHash.dll
+D:\Users\User\Downloads\sistema-vendas-finalizado\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Users\User\Downloads\sistema-vendas-finalizado\bin\Debug\System.Buffers.dll
+D:\Users\User\Downloads\sistema-vendas-finalizado\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\Users\User\Downloads\sistema-vendas-finalizado\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Users\User\Downloads\sistema-vendas-finalizado\bin\Debug\System.IO.Pipelines.dll
+D:\Users\User\Downloads\sistema-vendas-finalizado\bin\Debug\System.Memory.dll
+D:\Users\User\Downloads\sistema-vendas-finalizado\bin\Debug\System.Numerics.Vectors.dll
+D:\Users\User\Downloads\sistema-vendas-finalizado\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Users\User\Downloads\sistema-vendas-finalizado\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Users\User\Downloads\sistema-vendas-finalizado\bin\Debug\ZstdSharp.dll
+D:\Users\User\Downloads\sistema-vendas-finalizado\bin\Debug\BouncyCastle.Cryptography.xml
+D:\Users\User\Downloads\sistema-vendas-finalizado\bin\Debug\Google.Protobuf.pdb
+D:\Users\User\Downloads\sistema-vendas-finalizado\bin\Debug\K4os.Compression.LZ4.xml
+D:\Users\User\Downloads\sistema-vendas-finalizado\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\Users\User\Downloads\sistema-vendas-finalizado\bin\Debug\K4os.Hash.xxHash.xml
+D:\Users\User\Downloads\sistema-vendas-finalizado\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Users\User\Downloads\sistema-vendas-finalizado\bin\Debug\System.Buffers.xml
+D:\Users\User\Downloads\sistema-vendas-finalizado\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\Users\User\Downloads\sistema-vendas-finalizado\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Users\User\Downloads\sistema-vendas-finalizado\bin\Debug\System.IO.Pipelines.xml
+D:\Users\User\Downloads\sistema-vendas-finalizado\bin\Debug\System.Memory.xml
+D:\Users\User\Downloads\sistema-vendas-finalizado\bin\Debug\System.Numerics.Vectors.xml
+D:\Users\User\Downloads\sistema-vendas-finalizado\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Users\User\Downloads\sistema-vendas-finalizado\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Users\User\Downloads\SistemaVendas\bin\Debug\Projeto Controle Vendas.exe.config
+D:\Users\User\Downloads\SistemaVendas\bin\Debug\Projeto Controle Vendas.exe
+D:\Users\User\Downloads\SistemaVendas\bin\Debug\Projeto Controle Vendas.pdb
+D:\Users\User\Downloads\SistemaVendas\bin\Debug\BouncyCastle.Crypto.dll
+D:\Users\User\Downloads\SistemaVendas\bin\Debug\BouncyCastle.Cryptography.dll
+D:\Users\User\Downloads\SistemaVendas\bin\Debug\Google.Protobuf.dll
+D:\Users\User\Downloads\SistemaVendas\bin\Debug\K4os.Compression.LZ4.dll
+D:\Users\User\Downloads\SistemaVendas\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Users\User\Downloads\SistemaVendas\bin\Debug\K4os.Hash.xxHash.dll
+D:\Users\User\Downloads\SistemaVendas\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Users\User\Downloads\SistemaVendas\bin\Debug\MySql.Data.dll
+D:\Users\User\Downloads\SistemaVendas\bin\Debug\Renci.SshNet.dll
+D:\Users\User\Downloads\SistemaVendas\bin\Debug\System.Buffers.dll
+D:\Users\User\Downloads\SistemaVendas\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\Users\User\Downloads\SistemaVendas\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Users\User\Downloads\SistemaVendas\bin\Debug\System.IO.Pipelines.dll
+D:\Users\User\Downloads\SistemaVendas\bin\Debug\System.Memory.dll
+D:\Users\User\Downloads\SistemaVendas\bin\Debug\System.Numerics.Vectors.dll
+D:\Users\User\Downloads\SistemaVendas\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Users\User\Downloads\SistemaVendas\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Users\User\Downloads\SistemaVendas\bin\Debug\ZstdSharp.dll
+D:\Users\User\Downloads\SistemaVendas\bin\Debug\BouncyCastle.Cryptography.xml
+D:\Users\User\Downloads\SistemaVendas\bin\Debug\Google.Protobuf.pdb
+D:\Users\User\Downloads\SistemaVendas\bin\Debug\Google.Protobuf.xml
+D:\Users\User\Downloads\SistemaVendas\bin\Debug\K4os.Compression.LZ4.xml
+D:\Users\User\Downloads\SistemaVendas\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\Users\User\Downloads\SistemaVendas\bin\Debug\K4os.Hash.xxHash.xml
+D:\Users\User\Downloads\SistemaVendas\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Users\User\Downloads\SistemaVendas\bin\Debug\MySql.Data.xml
+D:\Users\User\Downloads\SistemaVendas\bin\Debug\Renci.SshNet.xml
+D:\Users\User\Downloads\SistemaVendas\bin\Debug\System.Buffers.xml
+D:\Users\User\Downloads\SistemaVendas\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\Users\User\Downloads\SistemaVendas\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Users\User\Downloads\SistemaVendas\bin\Debug\System.IO.Pipelines.xml
+D:\Users\User\Downloads\SistemaVendas\bin\Debug\System.Memory.xml
+D:\Users\User\Downloads\SistemaVendas\bin\Debug\System.Numerics.Vectors.xml
+D:\Users\User\Downloads\SistemaVendas\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Users\User\Downloads\SistemaVendas\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Users\User\Downloads\SistemaVendas\obj\Debug\Projeto Controle Vendas.csproj.AssemblyReference.cache
+D:\Users\User\Downloads\SistemaVendas\obj\Debug\Projeto_Controle_Vendas.br.com.projeto.view.Frmclientes.resources
+D:\Users\User\Downloads\SistemaVendas\obj\Debug\Projeto_Controle_Vendas.br.com.projeto.view.Frmdetalhes.resources
+D:\Users\User\Downloads\SistemaVendas\obj\Debug\Projeto_Controle_Vendas.br.com.projeto.view.Frmfornecedores.resources
+D:\Users\User\Downloads\SistemaVendas\obj\Debug\Projeto_Controle_Vendas.br.com.projeto.view.Frmfuncionarios.resources
+D:\Users\User\Downloads\SistemaVendas\obj\Debug\Projeto_Controle_Vendas.br.com.projeto.view.Frmhistorico.resources
+D:\Users\User\Downloads\SistemaVendas\obj\Debug\Projeto_Controle_Vendas.br.com.projeto.view.Frmlogin.resources
+D:\Users\User\Downloads\SistemaVendas\obj\Debug\Projeto_Controle_Vendas.br.com.projeto.view.FrmMenu.resources
+D:\Users\User\Downloads\SistemaVendas\obj\Debug\Projeto_Controle_Vendas.br.com.projeto.view.Frmpagamentos.resources
+D:\Users\User\Downloads\SistemaVendas\obj\Debug\Projeto_Controle_Vendas.br.com.projeto.view.Frmprodutos.resources
+D:\Users\User\Downloads\SistemaVendas\obj\Debug\Projeto_Controle_Vendas.br.com.projeto.view.Frmvendas.resources
+D:\Users\User\Downloads\SistemaVendas\obj\Debug\Projeto_Controle_Vendas.Properties.Resources.resources
+D:\Users\User\Downloads\SistemaVendas\obj\Debug\Projeto Controle Vendas.csproj.GenerateResource.cache
+D:\Users\User\Downloads\SistemaVendas\obj\Debug\Projeto Controle Vendas.csproj.CoreCompileInputs.cache
+D:\Users\User\Downloads\SistemaVendas\obj\Debug\Projeto .EC285273.Up2Date
+D:\Users\User\Downloads\SistemaVendas\obj\Debug\Projeto Controle Vendas.exe
+D:\Users\User\Downloads\SistemaVendas\obj\Debug\Projeto Controle Vendas.pdb

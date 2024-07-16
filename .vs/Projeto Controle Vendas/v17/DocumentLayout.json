@@ -1,0 +1,518 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Users\\User\\Downloads\\SistemaVendas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A9FCC738-3A08-44E6-861F-DEACAFF9AF05}|Projeto Controle Vendas.csproj|D:\\Users\\User\\Downloads\\SistemaVendas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9FCC738-3A08-44E6-861F-DEACAFF9AF05}|Projeto Controle Vendas.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9FCC738-3A08-44E6-861F-DEACAFF9AF05}|Projeto Controle Vendas.csproj|d:\\users\\user\\downloads\\sistemavendas\\br.com.projeto.view\\frmclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A9FCC738-3A08-44E6-861F-DEACAFF9AF05}|Projeto Controle Vendas.csproj|solutionrelative:br.com.projeto.view\\frmclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9FCC738-3A08-44E6-861F-DEACAFF9AF05}|Projeto Controle Vendas.csproj|D:\\Users\\User\\Downloads\\SistemaVendas\\br.com.projeto.view\\frmdetalhes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A9FCC738-3A08-44E6-861F-DEACAFF9AF05}|Projeto Controle Vendas.csproj|solutionrelative:br.com.projeto.view\\frmdetalhes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9FCC738-3A08-44E6-861F-DEACAFF9AF05}|Projeto Controle Vendas.csproj|D:\\Users\\User\\Downloads\\SistemaVendas\\br.com.projeto.view\\frmprodutos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A9FCC738-3A08-44E6-861F-DEACAFF9AF05}|Projeto Controle Vendas.csproj|solutionrelative:br.com.projeto.view\\frmprodutos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9FCC738-3A08-44E6-861F-DEACAFF9AF05}|Projeto Controle Vendas.csproj|D:\\Users\\User\\Downloads\\SistemaVendas\\br.com.projeto.model\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9FCC738-3A08-44E6-861F-DEACAFF9AF05}|Projeto Controle Vendas.csproj|solutionrelative:br.com.projeto.model\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9FCC738-3A08-44E6-861F-DEACAFF9AF05}|Projeto Controle Vendas.csproj|D:\\Users\\User\\Downloads\\SistemaVendas\\br.com.projeto.model\\itemvenda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9FCC738-3A08-44E6-861F-DEACAFF9AF05}|Projeto Controle Vendas.csproj|solutionrelative:br.com.projeto.model\\itemvenda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9FCC738-3A08-44E6-861F-DEACAFF9AF05}|Projeto Controle Vendas.csproj|D:\\Users\\User\\Downloads\\SistemaVendas\\br.com.projeto.model\\funcionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9FCC738-3A08-44E6-861F-DEACAFF9AF05}|Projeto Controle Vendas.csproj|solutionrelative:br.com.projeto.model\\funcionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9FCC738-3A08-44E6-861F-DEACAFF9AF05}|Projeto Controle Vendas.csproj|D:\\Users\\User\\Downloads\\SistemaVendas\\br.com.projeto.model\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9FCC738-3A08-44E6-861F-DEACAFF9AF05}|Projeto Controle Vendas.csproj|solutionrelative:br.com.projeto.model\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9FCC738-3A08-44E6-861F-DEACAFF9AF05}|Projeto Controle Vendas.csproj|D:\\Users\\User\\Downloads\\SistemaVendas\\br.com.projeto.dao\\produtodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9FCC738-3A08-44E6-861F-DEACAFF9AF05}|Projeto Controle Vendas.csproj|solutionrelative:br.com.projeto.dao\\produtodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9FCC738-3A08-44E6-861F-DEACAFF9AF05}|Projeto Controle Vendas.csproj|D:\\Users\\User\\Downloads\\SistemaVendas\\br.com.projeto.dao\\vendadao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9FCC738-3A08-44E6-861F-DEACAFF9AF05}|Projeto Controle Vendas.csproj|solutionrelative:br.com.projeto.dao\\vendadao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9FCC738-3A08-44E6-861F-DEACAFF9AF05}|Projeto Controle Vendas.csproj|D:\\Users\\User\\Downloads\\SistemaVendas\\br.com.projeto.model\\fornecedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9FCC738-3A08-44E6-861F-DEACAFF9AF05}|Projeto Controle Vendas.csproj|solutionrelative:br.com.projeto.model\\fornecedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9FCC738-3A08-44E6-861F-DEACAFF9AF05}|Projeto Controle Vendas.csproj|D:\\Users\\User\\Downloads\\SistemaVendas\\br.com.projeto.model\\helpers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9FCC738-3A08-44E6-861F-DEACAFF9AF05}|Projeto Controle Vendas.csproj|solutionrelative:br.com.projeto.model\\helpers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9FCC738-3A08-44E6-861F-DEACAFF9AF05}|Projeto Controle Vendas.csproj|D:\\Users\\User\\Downloads\\SistemaVendas\\br.com.projeto.model\\venda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9FCC738-3A08-44E6-861F-DEACAFF9AF05}|Projeto Controle Vendas.csproj|solutionrelative:br.com.projeto.model\\venda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9FCC738-3A08-44E6-861F-DEACAFF9AF05}|Projeto Controle Vendas.csproj|D:\\Users\\User\\Downloads\\SistemaVendas\\br.com.projeto.view\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A9FCC738-3A08-44E6-861F-DEACAFF9AF05}|Projeto Controle Vendas.csproj|solutionrelative:br.com.projeto.view\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9FCC738-3A08-44E6-861F-DEACAFF9AF05}|Projeto Controle Vendas.csproj|D:\\Users\\User\\Downloads\\SistemaVendas\\br.com.projeto.view\\frmfornecedores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A9FCC738-3A08-44E6-861F-DEACAFF9AF05}|Projeto Controle Vendas.csproj|solutionrelative:br.com.projeto.view\\frmfornecedores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9FCC738-3A08-44E6-861F-DEACAFF9AF05}|Projeto Controle Vendas.csproj|D:\\Users\\User\\Downloads\\SistemaVendas\\br.com.projeto.view\\frmmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9FCC738-3A08-44E6-861F-DEACAFF9AF05}|Projeto Controle Vendas.csproj|solutionrelative:br.com.projeto.view\\frmmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9FCC738-3A08-44E6-861F-DEACAFF9AF05}|Projeto Controle Vendas.csproj|D:\\Users\\User\\Downloads\\SistemaVendas\\br.com.projeto.view\\frmmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A9FCC738-3A08-44E6-861F-DEACAFF9AF05}|Projeto Controle Vendas.csproj|solutionrelative:br.com.projeto.view\\frmmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9FCC738-3A08-44E6-861F-DEACAFF9AF05}|Projeto Controle Vendas.csproj|D:\\Users\\User\\Downloads\\SistemaVendas\\br.com.projeto.dao\\itemvendadao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9FCC738-3A08-44E6-861F-DEACAFF9AF05}|Projeto Controle Vendas.csproj|solutionrelative:br.com.projeto.dao\\itemvendadao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9FCC738-3A08-44E6-861F-DEACAFF9AF05}|Projeto Controle Vendas.csproj|D:\\Users\\User\\Downloads\\SistemaVendas\\br.com.projeto.view\\frmhistorico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A9FCC738-3A08-44E6-861F-DEACAFF9AF05}|Projeto Controle Vendas.csproj|solutionrelative:br.com.projeto.view\\frmhistorico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9FCC738-3A08-44E6-861F-DEACAFF9AF05}|Projeto Controle Vendas.csproj|D:\\Users\\User\\Downloads\\SistemaVendas\\br.com.projeto.dao\\fornecedordao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9FCC738-3A08-44E6-861F-DEACAFF9AF05}|Projeto Controle Vendas.csproj|solutionrelative:br.com.projeto.dao\\fornecedordao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9FCC738-3A08-44E6-861F-DEACAFF9AF05}|Projeto Controle Vendas.csproj|D:\\Users\\User\\Downloads\\SistemaVendas\\br.com.projeto.dao\\funcionariodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9FCC738-3A08-44E6-861F-DEACAFF9AF05}|Projeto Controle Vendas.csproj|solutionrelative:br.com.projeto.dao\\funcionariodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9FCC738-3A08-44E6-861F-DEACAFF9AF05}|Projeto Controle Vendas.csproj|D:\\Users\\User\\Downloads\\SistemaVendas\\br.com.projeto.view\\frmvendas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A9FCC738-3A08-44E6-861F-DEACAFF9AF05}|Projeto Controle Vendas.csproj|solutionrelative:br.com.projeto.view\\frmvendas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9FCC738-3A08-44E6-861F-DEACAFF9AF05}|Projeto Controle Vendas.csproj|D:\\Users\\User\\Downloads\\SistemaVendas\\br.com.projeto.view\\frmpagamentos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A9FCC738-3A08-44E6-861F-DEACAFF9AF05}|Projeto Controle Vendas.csproj|solutionrelative:br.com.projeto.view\\frmpagamentos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9FCC738-3A08-44E6-861F-DEACAFF9AF05}|Projeto Controle Vendas.csproj|D:\\Users\\User\\Downloads\\SistemaVendas\\br.com.projeto.view\\frmfuncionarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A9FCC738-3A08-44E6-861F-DEACAFF9AF05}|Projeto Controle Vendas.csproj|solutionrelative:br.com.projeto.view\\frmfuncionarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9FCC738-3A08-44E6-861F-DEACAFF9AF05}|Projeto Controle Vendas.csproj|D:\\Users\\User\\Downloads\\SistemaVendas\\br.com.projeto.view\\frmclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9FCC738-3A08-44E6-861F-DEACAFF9AF05}|Projeto Controle Vendas.csproj|solutionrelative:br.com.projeto.view\\frmclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9FCC738-3A08-44E6-861F-DEACAFF9AF05}|Projeto Controle Vendas.csproj|D:\\Users\\User\\Downloads\\SistemaVendas\\br.com.projeto.view\\frmfornecedores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9FCC738-3A08-44E6-861F-DEACAFF9AF05}|Projeto Controle Vendas.csproj|solutionrelative:br.com.projeto.view\\frmfornecedores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9FCC738-3A08-44E6-861F-DEACAFF9AF05}|Projeto Controle Vendas.csproj|D:\\Users\\User\\Downloads\\SistemaVendas\\br.com.projeto.view\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9FCC738-3A08-44E6-861F-DEACAFF9AF05}|Projeto Controle Vendas.csproj|solutionrelative:br.com.projeto.view\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9FCC738-3A08-44E6-861F-DEACAFF9AF05}|Projeto Controle Vendas.csproj|D:\\Users\\User\\Downloads\\SistemaVendas\\br.com.projeto.dao\\clientedao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9FCC738-3A08-44E6-861F-DEACAFF9AF05}|Projeto Controle Vendas.csproj|solutionrelative:br.com.projeto.dao\\clientedao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9FCC738-3A08-44E6-861F-DEACAFF9AF05}|Projeto Controle Vendas.csproj|D:\\Users\\User\\Downloads\\SistemaVendas\\br.com.projeto.conexao\\connectionfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9FCC738-3A08-44E6-861F-DEACAFF9AF05}|Projeto Controle Vendas.csproj|solutionrelative:br.com.projeto.conexao\\connectionfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9FCC738-3A08-44E6-861F-DEACAFF9AF05}|Projeto Controle Vendas.csproj|D:\\Users\\User\\Downloads\\SistemaVendas\\br.com.projeto.view\\frmvendas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9FCC738-3A08-44E6-861F-DEACAFF9AF05}|Projeto Controle Vendas.csproj|solutionrelative:br.com.projeto.view\\frmvendas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9FCC738-3A08-44E6-861F-DEACAFF9AF05}|Projeto Controle Vendas.csproj|D:\\Users\\User\\Downloads\\SistemaVendas\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A9FCC738-3A08-44E6-861F-DEACAFF9AF05}|Projeto Controle Vendas.csproj|solutionrelative:app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ItemVenda.cs",
+              "DocumentMoniker": "D:\\Users\\User\\Downloads\\SistemaVendas\\br.com.projeto.model\\ItemVenda.cs",
+              "RelativeDocumentMoniker": "br.com.projeto.model\\ItemVenda.cs",
+              "ToolTip": "D:\\Users\\User\\Downloads\\SistemaVendas\\br.com.projeto.model\\ItemVenda.cs",
+              "RelativeToolTip": "br.com.projeto.model\\ItemVenda.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T23:42:32.759Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Produto.cs",
+              "DocumentMoniker": "D:\\Users\\User\\Downloads\\SistemaVendas\\br.com.projeto.model\\Produto.cs",
+              "RelativeDocumentMoniker": "br.com.projeto.model\\Produto.cs",
+              "ToolTip": "D:\\Users\\User\\Downloads\\SistemaVendas\\br.com.projeto.model\\Produto.cs",
+              "RelativeToolTip": "br.com.projeto.model\\Produto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T20:37:59.349Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Frmprodutos.cs [Design]",
+              "DocumentMoniker": "D:\\Users\\User\\Downloads\\SistemaVendas\\br.com.projeto.view\\Frmprodutos.cs",
+              "RelativeDocumentMoniker": "br.com.projeto.view\\Frmprodutos.cs",
+              "ToolTip": "D:\\Users\\User\\Downloads\\sistema-vendas-finalizado\\br.com.projeto.view\\Frmprodutos.cs [Design]",
+              "RelativeToolTip": "..\\sistema-vendas-finalizado\\br.com.projeto.view\\Frmprodutos.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T17:55:23.582Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Frmdetalhes.cs [Design]",
+              "DocumentMoniker": "D:\\Users\\User\\Downloads\\SistemaVendas\\br.com.projeto.view\\Frmdetalhes.cs",
+              "RelativeDocumentMoniker": "br.com.projeto.view\\Frmdetalhes.cs",
+              "ToolTip": "D:\\Users\\User\\Downloads\\sistema-vendas-finalizado\\br.com.projeto.view\\Frmdetalhes.cs [Design]",
+              "RelativeToolTip": "..\\sistema-vendas-finalizado\\br.com.projeto.view\\Frmdetalhes.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T17:26:52.439Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Frmclientes.cs [Design]",
+              "DocumentMoniker": "D:\\Users\\User\\Downloads\\SistemaVendas\\br.com.projeto.view\\Frmclientes.cs",
+              "RelativeDocumentMoniker": "br.com.projeto.view\\Frmclientes.cs",
+              "ToolTip": "D:\\Users\\User\\Downloads\\SistemaVendas\\br.com.projeto.view\\Frmclientes.cs [Design]",
+              "RelativeToolTip": "br.com.projeto.view\\Frmclientes.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T17:26:54.495Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Users\\User\\Downloads\\SistemaVendas\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Users\\User\\Downloads\\SistemaVendas\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T17:55:55.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Funcionario.cs",
+              "DocumentMoniker": "D:\\Users\\User\\Downloads\\SistemaVendas\\br.com.projeto.model\\Funcionario.cs",
+              "RelativeDocumentMoniker": "br.com.projeto.model\\Funcionario.cs",
+              "ToolTip": "D:\\Users\\User\\Downloads\\SistemaVendas\\br.com.projeto.model\\Funcionario.cs",
+              "RelativeToolTip": "br.com.projeto.model\\Funcionario.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T23:43:23.659Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "D:\\Users\\User\\Downloads\\SistemaVendas\\br.com.projeto.model\\Cliente.cs",
+              "RelativeDocumentMoniker": "br.com.projeto.model\\Cliente.cs",
+              "ToolTip": "D:\\Users\\User\\Downloads\\SistemaVendas\\br.com.projeto.model\\Cliente.cs",
+              "RelativeToolTip": "br.com.projeto.model\\Cliente.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAqwBMAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T23:43:19.152Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProdutoDAO.cs",
+              "DocumentMoniker": "D:\\Users\\User\\Downloads\\SistemaVendas\\br.com.projeto.dao\\ProdutoDAO.cs",
+              "RelativeDocumentMoniker": "br.com.projeto.dao\\ProdutoDAO.cs",
+              "ToolTip": "D:\\Users\\User\\Downloads\\SistemaVendas\\br.com.projeto.dao\\ProdutoDAO.cs",
+              "RelativeToolTip": "br.com.projeto.dao\\ProdutoDAO.cs",
+              "ViewState": "AQIAAFMBAAAAAAAAAAAkwE4BAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T14:37:55.834Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "VendaDAO.cs",
+              "DocumentMoniker": "D:\\Users\\User\\Downloads\\SistemaVendas\\br.com.projeto.dao\\VendaDAO.cs",
+              "RelativeDocumentMoniker": "br.com.projeto.dao\\VendaDAO.cs",
+              "ToolTip": "D:\\Users\\User\\Downloads\\SistemaVendas\\br.com.projeto.dao\\VendaDAO.cs",
+              "RelativeToolTip": "br.com.projeto.dao\\VendaDAO.cs",
+              "ViewState": "AQIAAJsAAAAAAAAAAAAAAJwAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T17:55:53.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Fornecedor.cs",
+              "DocumentMoniker": "D:\\Users\\User\\Downloads\\SistemaVendas\\br.com.projeto.model\\Fornecedor.cs",
+              "RelativeDocumentMoniker": "br.com.projeto.model\\Fornecedor.cs",
+              "ToolTip": "D:\\Users\\User\\Downloads\\SistemaVendas\\br.com.projeto.model\\Fornecedor.cs",
+              "RelativeToolTip": "br.com.projeto.model\\Fornecedor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T13:44:53.258Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Helpers.cs",
+              "DocumentMoniker": "D:\\Users\\User\\Downloads\\SistemaVendas\\br.com.projeto.model\\Helpers.cs",
+              "RelativeDocumentMoniker": "br.com.projeto.model\\Helpers.cs",
+              "ToolTip": "D:\\Users\\User\\Downloads\\SistemaVendas\\br.com.projeto.model\\Helpers.cs",
+              "RelativeToolTip": "br.com.projeto.model\\Helpers.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwB0AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T19:40:17.637Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Venda.cs",
+              "DocumentMoniker": "D:\\Users\\User\\Downloads\\SistemaVendas\\br.com.projeto.model\\Venda.cs",
+              "RelativeDocumentMoniker": "br.com.projeto.model\\Venda.cs",
+              "ToolTip": "D:\\Users\\User\\Downloads\\SistemaVendas\\br.com.projeto.model\\Venda.cs",
+              "RelativeToolTip": "br.com.projeto.model\\Venda.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T23:43:35.434Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Frmlogin.cs [Design]",
+              "DocumentMoniker": "D:\\Users\\User\\Downloads\\SistemaVendas\\br.com.projeto.view\\Frmlogin.cs",
+              "RelativeDocumentMoniker": "br.com.projeto.view\\Frmlogin.cs",
+              "ToolTip": "D:\\Users\\User\\Downloads\\sistema-vendas-finalizado\\br.com.projeto.view\\Frmlogin.cs [Design]",
+              "RelativeToolTip": "..\\sistema-vendas-finalizado\\br.com.projeto.view\\Frmlogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T17:53:52.424Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Frmfornecedores.cs [Design]",
+              "DocumentMoniker": "D:\\Users\\User\\Downloads\\SistemaVendas\\br.com.projeto.view\\Frmfornecedores.cs",
+              "RelativeDocumentMoniker": "br.com.projeto.view\\Frmfornecedores.cs",
+              "ToolTip": "D:\\Users\\User\\Downloads\\sistema-vendas-finalizado\\br.com.projeto.view\\Frmfornecedores.cs [Design]",
+              "RelativeToolTip": "..\\sistema-vendas-finalizado\\br.com.projeto.view\\Frmfornecedores.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T17:33:28.921Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FrmMenu.cs",
+              "DocumentMoniker": "D:\\Users\\User\\Downloads\\SistemaVendas\\br.com.projeto.view\\FrmMenu.cs",
+              "RelativeDocumentMoniker": "br.com.projeto.view\\FrmMenu.cs",
+              "ToolTip": "D:\\Users\\User\\Downloads\\SistemaVendas\\br.com.projeto.view\\FrmMenu.cs",
+              "RelativeToolTip": "br.com.projeto.view\\FrmMenu.cs",
+              "ViewState": "AQIAAFwAAAAAAAAAAAA5wHAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T18:14:19.774Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "FrmMenu.cs [Design]",
+              "DocumentMoniker": "D:\\Users\\User\\Downloads\\SistemaVendas\\br.com.projeto.view\\FrmMenu.cs",
+              "RelativeDocumentMoniker": "br.com.projeto.view\\FrmMenu.cs",
+              "ToolTip": "D:\\Users\\User\\Downloads\\sistema-vendas-finalizado\\br.com.projeto.view\\FrmMenu.cs [Design]",
+              "RelativeToolTip": "..\\sistema-vendas-finalizado\\br.com.projeto.view\\FrmMenu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T18:10:25.554Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ItemVendaDAO.cs",
+              "DocumentMoniker": "D:\\Users\\User\\Downloads\\SistemaVendas\\br.com.projeto.dao\\ItemVendaDAO.cs",
+              "RelativeDocumentMoniker": "br.com.projeto.dao\\ItemVendaDAO.cs",
+              "ToolTip": "D:\\Users\\User\\Downloads\\SistemaVendas\\br.com.projeto.dao\\ItemVendaDAO.cs",
+              "RelativeToolTip": "br.com.projeto.dao\\ItemVendaDAO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T14:32:46.025Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Frmhistorico.cs [Design]",
+              "DocumentMoniker": "D:\\Users\\User\\Downloads\\SistemaVendas\\br.com.projeto.view\\Frmhistorico.cs",
+              "RelativeDocumentMoniker": "br.com.projeto.view\\Frmhistorico.cs",
+              "ToolTip": "D:\\Users\\User\\Downloads\\sistema-vendas-finalizado\\br.com.projeto.view\\Frmhistorico.cs [Design]",
+              "RelativeToolTip": "..\\sistema-vendas-finalizado\\br.com.projeto.view\\Frmhistorico.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T17:53:07.893Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "FornecedorDAO.cs",
+              "DocumentMoniker": "D:\\Users\\User\\Downloads\\SistemaVendas\\br.com.projeto.dao\\FornecedorDAO.cs",
+              "RelativeDocumentMoniker": "br.com.projeto.dao\\FornecedorDAO.cs",
+              "ToolTip": "D:\\Users\\User\\Downloads\\SistemaVendas\\br.com.projeto.dao\\FornecedorDAO.cs",
+              "RelativeToolTip": "br.com.projeto.dao\\FornecedorDAO.cs",
+              "ViewState": "AQIAAOgAAAAAAAAAAAAAAOgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T20:14:58.057Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "FuncionarioDAO.cs",
+              "DocumentMoniker": "D:\\Users\\User\\Downloads\\SistemaVendas\\br.com.projeto.dao\\FuncionarioDAO.cs",
+              "RelativeDocumentMoniker": "br.com.projeto.dao\\FuncionarioDAO.cs",
+              "ToolTip": "D:\\Users\\User\\Downloads\\SistemaVendas\\br.com.projeto.dao\\FuncionarioDAO.cs",
+              "RelativeToolTip": "br.com.projeto.dao\\FuncionarioDAO.cs",
+              "ViewState": "AQIAAAsBAAAAAAAAAAAAAAsBAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T18:07:47.224Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Frmvendas.cs [Design]",
+              "DocumentMoniker": "D:\\Users\\User\\Downloads\\SistemaVendas\\br.com.projeto.view\\Frmvendas.cs",
+              "RelativeDocumentMoniker": "br.com.projeto.view\\Frmvendas.cs",
+              "ToolTip": "D:\\Users\\User\\Downloads\\sistema-vendas-finalizado\\br.com.projeto.view\\Frmvendas.cs [Design]",
+              "RelativeToolTip": "..\\sistema-vendas-finalizado\\br.com.projeto.view\\Frmvendas.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T17:55:22.715Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Frmpagamentos.cs [Design]",
+              "DocumentMoniker": "D:\\Users\\User\\Downloads\\SistemaVendas\\br.com.projeto.view\\Frmpagamentos.cs",
+              "RelativeDocumentMoniker": "br.com.projeto.view\\Frmpagamentos.cs",
+              "ToolTip": "D:\\Users\\User\\Downloads\\sistema-vendas-finalizado\\br.com.projeto.view\\Frmpagamentos.cs [Design]",
+              "RelativeToolTip": "..\\sistema-vendas-finalizado\\br.com.projeto.view\\Frmpagamentos.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T17:55:21.427Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Frmfuncionarios.cs [Design]",
+              "DocumentMoniker": "D:\\Users\\User\\Downloads\\SistemaVendas\\br.com.projeto.view\\Frmfuncionarios.cs",
+              "RelativeDocumentMoniker": "br.com.projeto.view\\Frmfuncionarios.cs",
+              "ToolTip": "D:\\Users\\User\\Downloads\\sistema-vendas-finalizado\\br.com.projeto.view\\Frmfuncionarios.cs [Design]",
+              "RelativeToolTip": "..\\sistema-vendas-finalizado\\br.com.projeto.view\\Frmfuncionarios.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T17:36:22.584Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Frmclientes.cs",
+              "DocumentMoniker": "D:\\Users\\User\\Downloads\\SistemaVendas\\br.com.projeto.view\\Frmclientes.cs",
+              "RelativeDocumentMoniker": "br.com.projeto.view\\Frmclientes.cs",
+              "ToolTip": "D:\\Users\\User\\Downloads\\SistemaVendas\\br.com.projeto.view\\Frmclientes.cs",
+              "RelativeToolTip": "br.com.projeto.view\\Frmclientes.cs",
+              "ViewState": "AQIAAIcAAAAAAAAAAAAmwF0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T17:29:19.016Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Frmfornecedores.cs",
+              "DocumentMoniker": "D:\\Users\\User\\Downloads\\SistemaVendas\\br.com.projeto.view\\Frmfornecedores.cs",
+              "RelativeDocumentMoniker": "br.com.projeto.view\\Frmfornecedores.cs",
+              "ToolTip": "D:\\Users\\User\\Downloads\\SistemaVendas\\br.com.projeto.view\\Frmfornecedores.cs",
+              "RelativeToolTip": "br.com.projeto.view\\Frmfornecedores.cs",
+              "ViewState": "AQIAAIgAAAAAAAAAAAAcwJoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T23:42:36.954Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Frmlogin.cs",
+              "DocumentMoniker": "D:\\Users\\User\\Downloads\\SistemaVendas\\br.com.projeto.view\\Frmlogin.cs",
+              "RelativeDocumentMoniker": "br.com.projeto.view\\Frmlogin.cs",
+              "ToolTip": "D:\\Users\\User\\Downloads\\SistemaVendas\\br.com.projeto.view\\Frmlogin.cs",
+              "RelativeToolTip": "br.com.projeto.view\\Frmlogin.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAD4vxoAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T21:16:16.545Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ClienteDAO.cs",
+              "DocumentMoniker": "D:\\Users\\User\\Downloads\\SistemaVendas\\br.com.projeto.dao\\ClienteDAO.cs",
+              "RelativeDocumentMoniker": "br.com.projeto.dao\\ClienteDAO.cs",
+              "ToolTip": "D:\\Users\\User\\Downloads\\SistemaVendas\\br.com.projeto.dao\\ClienteDAO.cs",
+              "RelativeToolTip": "br.com.projeto.dao\\ClienteDAO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T19:18:06.322Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ConnectionFactory.cs",
+              "DocumentMoniker": "D:\\Users\\User\\Downloads\\SistemaVendas\\br.com.projeto.conexao\\ConnectionFactory.cs",
+              "RelativeDocumentMoniker": "br.com.projeto.conexao\\ConnectionFactory.cs",
+              "ToolTip": "D:\\Users\\User\\Downloads\\SistemaVendas\\br.com.projeto.conexao\\ConnectionFactory.cs",
+              "RelativeToolTip": "br.com.projeto.conexao\\ConnectionFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T18:05:12.654Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Frmvendas.cs",
+              "DocumentMoniker": "D:\\Users\\User\\Downloads\\SistemaVendas\\br.com.projeto.view\\Frmvendas.cs",
+              "RelativeDocumentMoniker": "br.com.projeto.view\\Frmvendas.cs",
+              "ToolTip": "D:\\Users\\User\\Downloads\\SistemaVendas\\br.com.projeto.view\\Frmvendas.cs",
+              "RelativeToolTip": "br.com.projeto.view\\Frmvendas.cs",
+              "ViewState": "AQIAAJYAAAAAAAAAAAASwJAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T18:00:03.077Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "App.config",
+              "DocumentMoniker": "D:\\Users\\User\\Downloads\\SistemaVendas\\App.config",
+              "RelativeDocumentMoniker": "App.config",
+              "ToolTip": "D:\\Users\\User\\Downloads\\SistemaVendas\\App.config",
+              "RelativeToolTip": "App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-07-15T17:26:24.794Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
